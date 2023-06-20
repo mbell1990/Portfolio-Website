@@ -103,13 +103,6 @@ img {
   color: var(--color-blue);
   transform: translateY(-1.2rem);
 }
-/**************************/
-/* Home Artilces */
-/**************************/
-
-#home-articles h2 {
-  padding-bottom: 2rem;
-}
 
 .footer-btn {
   border: none;
